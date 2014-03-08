@@ -1,0 +1,5 @@
+
+# Ignore build generated files
+build
+install
+.lock-waf_linux2_build

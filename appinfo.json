@@ -1,0 +1,28 @@
+{
+  "uuid": "490f37b0-d893-4207-a36c-40c082c2f9a0",
+  "shortName": "Beer O'Clock",
+  "longName": "Beer O'Clock",
+  "companyName": "@hunter_tj",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_beer.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_ROBOTO_BOLD_SUBSET_36",
+        "file": "fonts/Roboto-Bold.ttf"
+      }
+    ]
+  }
+}
